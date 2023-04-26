@@ -33,3 +33,8 @@
 [26-Apr-2023 19:56:34 UTC] SITE: Storing in option ast-block-templates-sites-2
 [26-Apr-2023 19:56:34 UTC] SITE: Completed request 2
 [26-Apr-2023 19:56:34 UTC] Sync process for Gutenberg Blocks is done.
+[26-Apr-2023 20:10:30 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\SYLLA\Desktop\HEVA\OPENCLASSROOMS\WORDPRESS\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[26-Apr-2023 20:10:30 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\SYLLA\Desktop\HEVA\OPENCLASSROOMS\WORDPRESS\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[26-Apr-2023 20:10:30 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\SYLLA\Desktop\HEVA\OPENCLASSROOMS\WORDPRESS\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[26-Apr-2023 20:10:30 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\SYLLA\Desktop\HEVA\OPENCLASSROOMS\WORDPRESS\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[26-Apr-2023 20:10:30 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\SYLLA\Desktop\HEVA\OPENCLASSROOMS\WORDPRESS\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
